@@ -4,7 +4,8 @@ Este é o PHP_DoZero, meu repositório de estudos dedicado à linguagem PHP — 
 
 Mais do que aprender sintaxe, estou treinando lógica de programação, organização de código e conceitos fundamentais do back-end, preparando o terreno para projetos dinâmicos e integração com bancos de dados.
 
-🔍 O que você vai encontrar aqui: 
+🔍 O que você vai encontrar aqui:  
+
 📌 Sintaxe básica e estrutura de scripts PHP
 
 🔁 Condicionais, loops e operadores
